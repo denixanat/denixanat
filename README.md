@@ -1,6 +1,6 @@
 # Hi, I'm Dení
 
-I’m a **Computer Science** and **Intelligent Systems Engineering** student passionate about **cybersecurity, software development, and design**.  
+I'm a **Computer Science** and **Intelligent Systems Engineering** student driven by a passion for **cybersecurity, software development, and design** with a special love for **videogames** as both a player and a creator.
 I love tackling real-world challenges through code, from building **AI-driven solutions** to creating **interactive applications**.
 
 I thrive in **hackathons**, **Capture the Flag (CTFs)**, and **competitive programming**, where I get to combine creativity, problem-solving, and technical skills under pressure.  
